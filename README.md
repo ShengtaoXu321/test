@@ -1,2 +1,2 @@
-# test
-test for temp and hum
+# 硬件透传云测试
+这是透传云提供的网页模板，进行硬件数据的显示
